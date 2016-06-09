@@ -11,5 +11,10 @@ IW:
 
 - was passiert bei "stash"?
 
+<<<<<<< HEAD
 - Welche Besonderheiten gibt es aus Integrationssicht zu beachten?
 
+=======
+BB:
+Gibt es eine gute Übersichtsseite zu GIT, auf der die Funktionen kurz und knapp beschrieben sind?
+>>>>>>> branch 'master' of https://github.com/burkhardmallmes/gitfragen.git
