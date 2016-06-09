@@ -2,3 +2,5 @@ Offene Fragen zu GIT:
 nwe
 - Was bedeutet die Abkï¿½rzung GIT?
 Wie schreibt man GIT?
+IW:
+- Verwenden wir in der Generali GIT genauso wie hier gezeigt oder haben wir wieder Eigenlösungen?
