@@ -1,1 +1,3 @@
 Offene Fragen zu GIT:
+
+Welche Person (welche Rolle) pflegt das GIT-Repository auf dem Server?
