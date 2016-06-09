@@ -11,3 +11,6 @@ IW:
 - Was bedeutet die Abkürzung GIT?
 
 - was passiert bei "stash"?
+
+BB:
+Gibt es eine gute Übersichtsseite zu GIT, auf der die Funktionen kurz und knapp beschrieben sind?
