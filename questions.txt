@@ -4,7 +4,6 @@ Welche Person (welche Rolle) pflegt das GIT-Repository auf dem Server?
 nwe
 - Was bedeutet die Abkuerzung GIT?
 - Wie schreibt man GIT?
-- Gibts das auch in bunt? Zweiter Anlauf...
 IW:
 - Verwenden wir in der Generali GIT genauso wie hier gezeigt oder haben wir wieder Eigenlösungen?
 
@@ -13,3 +12,8 @@ IW:
 - Was bedeutet die Abkürzung GIT?
 
 - was passiert bei "stash"?
+
+- Welche Besonderheiten gibt es aus Integrationssicht zu beachten?
+
+BB:
+Gibt es eine gute Übersichtsseite zu GIT, auf der die Funktionen kurz und knapp beschrieben sind?
