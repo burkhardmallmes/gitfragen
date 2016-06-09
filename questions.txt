@@ -10,5 +10,7 @@ IW:
 - koennte man einen Branch-Namen automatisch aendern nach einem rebase oder merge?
 
 - Was bedeutet die Abkürzung GIT? - Generali-IT :-)
+nwe
+- Was bedeutet die Abkï¿½rzung GIT?
 Wie schreibt man GIT?
 Gibts das auch in bunt?
