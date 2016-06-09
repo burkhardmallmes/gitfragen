@@ -9,11 +9,5 @@ IW:
 
 - koennte man einen Branch-Namen automatisch aendern nach einem rebase oder merge?
 
-- Was bedeutet die Abkürzung GIT?
-
-- was passiert bei "stash"?
-
-- Welche Besonderheiten gibt es aus Integrationssicht zu beachten?
-
-BB:
-Gibt es eine gute Übersichtsseite zu GIT, auf der die Funktionen kurz und knapp beschrieben sind?
+- Was bedeutet die Abkürzung GIT? - Generali-IT :-)
+Wie schreibt man GIT?
