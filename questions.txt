@@ -16,3 +16,4 @@ Wie schreibt man GIT?
 IW:
 - Verwenden wir in der Generali GIT genauso wie hier gezeigt oder haben wir wieder Eigenlösungen?
 Gibts das auch in bunt?
+Gibts das auch in bunt? Zweiter Anlauf...
