@@ -1,2 +1,3 @@
 Offene Fragen zu GIT:
 - Was bedeutet die Abkürzung GIT?
+Wie schreibt man GIT?
