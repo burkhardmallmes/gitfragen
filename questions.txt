@@ -1,4 +1,15 @@
 Offene Fragen zu GIT:
 
 Welche Person (welche Rolle) pflegt das GIT-Repository auf dem Server?
+nwe
+- Was bedeutet die Abkuerzung GIT?
+- Wie schreibt man GIT?
+- Gibts das auch in bunt? Zweiter Anlauf...
+IW:
+- Verwenden wir in der Generali GIT genauso wie hier gezeigt oder haben wir wieder Eigenlösungen?
+
+- koennte man einen Branch-Namen automatisch aendern nach einem rebase oder merge?
+
 - Was bedeutet die Abkürzung GIT?
+
+- was passiert bei "stash"?
